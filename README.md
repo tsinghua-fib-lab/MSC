@@ -2,7 +2,7 @@ MSC
 ============================================
 
  
-A PyTorch implementation of "Community Value Prediction in Social E-commerce" (WebConf 2021).
+Dataset and a PyTorch implementation of "Community Value Prediction in Social E-commerce" (WebConf 2021).
 
 
 <p align="center">
