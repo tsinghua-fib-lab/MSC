@@ -6,7 +6,7 @@ A PyTorch implementation of "Community Value Prediction in Social E-commerce" (W
 
 
 <p align="center">
-  <img width="600" src="msc.png">
+  <img width="1000" src="msc.png">
 </p>
 
 ### Abstract
