@@ -38,4 +38,4 @@ Simply run the following command to reproduce the experiments on corresponding d
 python run_experiments.py -p 'exp_config/msc_bd.cfg' -d [device]
 `
 
-Here, device can be `cpu` or `cuda`.
+Here, the `device` can be `cpu` or `cuda`.
