@@ -23,4 +23,4 @@ This repository provides a PyTorch implementation of MSC as described in the pap
 
 ### Citing
 
-If you find PDN useful in your research, please consider citing the following paper:
+If you find MSC useful in your research, please consider citing the following paper:
