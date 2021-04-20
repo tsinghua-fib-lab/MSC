@@ -24,3 +24,18 @@ This repository provides a PyTorch implementation of MSC as described in the pap
 ### Citing
 
 If you find MSC useful in your research, please consider citing the following paper:
+
+> Community Value Prediction in Social E-commerce.
+> Guozhen Zhang, Yong Li, Yuan Yuan, Fengli Xu, Hancheng Cao, Yujian Xu, Depeng Jin.
+> WebConf, 2021.
+
+
+### Usage
+
+Simply run the following command to reproduce the experiments on corresponding dataset and model:
+
+`
+python run_experiments.py -p 'exp_config/msc_bd.cfg' -d [device]
+`
+
+Here, device can be `cpu` or `cuda`.
